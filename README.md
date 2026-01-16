@@ -56,7 +56,7 @@ will generate all the relevant files in there. It will also load the default
 assets from the games.
 
 **If you do not see the `HytaleServer` run configuration, you may need to open
-the dropdown or click `Edit Configurations...` once to unhide it.**
+the dropdown in the top middle and select `HytaleServer` and press the green play button to start the server**
 
 ## Importing into VSCode
 While VSCode is not officially supported, you can generate launch configs by 
